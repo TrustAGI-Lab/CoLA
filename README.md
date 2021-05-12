@@ -1,4 +1,4 @@
-# Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning (TNNLS 2021)
+# Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning
 
 This is the source code of TNNLS paper [Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning](https://arxiv.org/abs/2103.00113) (CoLA). 
 
